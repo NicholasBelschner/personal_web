@@ -1,5 +1,6 @@
 <p align="center">
-  <img width="100px" src="me.png" alt="GitHub Readme Stats" />
+  <img width="100px" src="images/me.png" alt="GitHub Readme Stats" />
+</p>
 </p>
  <h1 align="center">TailBliss</h1>
  <p align="center">TailBliss is an opinionated Hugo Starter with Tailwind CSS 3.2 and Alpine.js with light/dark modes.</p>
